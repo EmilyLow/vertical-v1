@@ -33,7 +33,7 @@ function Header() {
                     <SearchIcon/>
                 </IconButton>
                 <Typography variant="h6" className={classes.title}>Vertical</Typography>
-                <Button color="secondary" variant="outlined"  endIcon={<PersonIcon/>}>Sign In</Button>
+                <Button  color="secondary" variant="outlined"  endIcon={<PersonIcon/>}>Sign In</Button>
             </Toolbar> 
         </AppBar>
     );
