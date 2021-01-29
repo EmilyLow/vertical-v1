@@ -18,7 +18,9 @@ const useStyles = makeStyles((theme) => ({
     imageStyle: {
     //   flexGrow: 1,
      width: '100%',
-     height: 'auto'
+     height: 'auto',
+     //! This is cheating
+    //  maxHeight: '400px'
     //  alignItems: "center"
     },
     cardStyle: {
